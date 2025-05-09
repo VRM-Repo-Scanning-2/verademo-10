@@ -2,7 +2,7 @@
 
 ## About
 
-Blab-a-Gag is a fairly simple forum type application which allows:hghg
+Blab-a-Gag is a fairly simple forum type application which allows:hghg test
 
 - users to post a one-liner joke
 - users to follow the jokes of other users or not (listen or ignore)
